@@ -1,0 +1,13 @@
+{
+  "name": "pptr-pagination",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fridry",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
